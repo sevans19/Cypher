@@ -1,0 +1,5 @@
+/Users/Sevans/Projects/Cypher/Cypher/bin/Debug/Cypher.exe
+/Users/Sevans/Projects/Cypher/Cypher/bin/Debug/Cypher.pdb
+/Users/Sevans/Projects/Cypher/Cypher/obj/x86/Debug/Cypher.csproj.CoreCompileInputs.cache
+/Users/Sevans/Projects/Cypher/Cypher/obj/x86/Debug/Cypher.exe
+/Users/Sevans/Projects/Cypher/Cypher/obj/x86/Debug/Cypher.pdb
